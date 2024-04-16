@@ -10,5 +10,5 @@
 
 ## 📄 Resume
 
-You can view my resume [here](https://docs.google.com/document/d/1WrUkLzO06e42l4gXlryBjRUSyxidND5b6MmKlpfZex8/edit).
+You can view my resume [here](https://drive.google.com/file/d/1iO0rMPETlIV9_7v80Krs_L1GXafqbcZo).
 
