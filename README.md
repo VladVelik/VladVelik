@@ -12,5 +12,5 @@ Additionally, I develop applications for esteemed companies such as [VTBMobile](
 
 ## 📄 Resume
 
-You can view my resume [here](https://drive.google.com/file/d/1iO0rMPETlIV9_7v80Krs_L1GXafqbcZo).
+You can view my CV [here](https://drive.google.com/file/d/1iO0rMPETlIV9_7v80Krs_L1GXafqbcZo).
 
