@@ -1,7 +1,7 @@
 # Hello, I'm Vladislav! 👋
 
 📱 I'm an iOS Developer passionate about creating amazing and innovative products. 
-Additionally, I develop applications for esteemed companies such as [VTBMobile](https://vtbmobile.ru/), [UNDO](https://undo.be/) and [UNO](https://unomobile.it/).
+Additionally, I develop applications for esteemed companies such as [VTBMobile](https://vtbmobile.ru/), [UNDO](https://undo.be/) and [1Mobile](https://unomobile.it/).
 
 
 ## 📬 Get in touch
