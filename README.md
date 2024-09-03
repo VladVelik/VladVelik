@@ -8,7 +8,7 @@ Additionally, I develop applications for esteemed companies such as [VTBMobile](
 
 - Email: [sosinvladik@yandex.ru](mailto:sosinvladik@yandex.ru)
 - Telegram: [My Telegram profile](https://t.me/vladvelik)
-- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/vladislav-sosin-3a0283228/)
+- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/vladvelik/)
 
 ## 📄 Resume
 
